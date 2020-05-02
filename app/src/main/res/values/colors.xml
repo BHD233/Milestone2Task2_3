@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_dark">#4d4d4d</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBorder">#e6e6e6</color>
+    <color name="white">#ffffff</color>
+    <color name="whitedark">#e6e6e6</color>
+    <color name="red">#cc0000</color>
+    <color name="redTransparent">#ddff0000</color>
+    <color name="blackdark">#4d4d4d</color>
+    <color name="black">#000000</color>
+    <color name="blackLight">#333333</color>
+    <color name="shelfStage1">#666666</color>
+    <color name="shelfStage2">#8c8c8c</color>
+    <color name="shelfStage3">#bfbfbf</color>
+    <color name="shelfStage4">#e6e6e6</color>
+    <color name="shelfStage5">#f2f2f2</color>
+    <color name="blueBackground">#3366cc</color>
+    <color name="bluequietLight">#00ccff</color>
+    <color name="lightblueBackground">#4db8ff</color>
+    <color name="blueDark">#0059b3</color>
+    <color name="blueLight">#c1f0f0</color>
+    <color name="purple">#730099</color>
+    <color name="whitedarksuper">#666666</color>
+    <color name="orangeBackground">#e67300</color>
+    <color name="pinkBackground">#ff3385</color>
+    <color name="brown">#4d2600</color>
+    <color name="brownlightBacground">#ebebe0</color>
+    <color name="brownQuietLight">#cccc99</color>
+    <color name="green">#608000</color>
+    <color name="greenLight">#33cc33</color>
+    <color name="greenYellow">#ffffcc</color>
+    <color name="grey">#9494b8</color>
+    <color name="yellow">#ffe680</color>
+</resources>
