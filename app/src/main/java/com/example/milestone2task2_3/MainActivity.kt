@@ -9,7 +9,7 @@ class MainActivity: AppCompatActivity(){
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        var intent = Intent(this, FlowingDrawerSample::class.java)
+        var intent = Intent(this, SwipeCardsSample::class.java)
         startActivity(intent)
     }
 

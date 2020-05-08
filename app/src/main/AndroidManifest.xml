@@ -51,6 +51,27 @@
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:name=".FlowingDrawerSample"/>
+        <activity
+            android:theme="@style/AppTheme.NoActionBar"
+            android:name=".AutoFitTextViewSample"/>
+        <activity
+            android:theme="@style/AppTheme.NoActionBar"
+            android:name=".PullToRefreshSample"/>
+        <activity
+            android:theme="@style/AppTheme.NoActionBar"
+            android:name=".PagerIndicatorSample"/>
+        <activity
+            android:theme="@style/AppTheme.NoActionBar"
+            android:name=".TabDigitSample"/>
+        <activity
+            android:theme="@style/AppTheme.NoActionBar"
+            android:name=".StickyHeaderSample"/>
+        <activity
+            android:theme="@style/AppTheme.NoActionBar"
+            android:name=".GoogleProgressBarSample"/>
+        <activity
+            android:theme="@style/AppTheme.NoActionBar"
+            android:name=".SwipeCardsSample"/>
     </application>
 
 

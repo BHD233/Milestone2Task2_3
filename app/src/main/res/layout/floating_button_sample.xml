@@ -6,11 +6,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <com.github.clans.fab.FloatingActionMenu
+        android:id="@+id/floating_button_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        android:layout_margin="20dp"
         app:menu_colorNormal="@color/green"
         app:menu_fab_label="BHD">
         <com.github.clans.fab.FloatingActionButton
@@ -39,4 +39,12 @@
             fab:fab_label="Menu item 4"
             app:fab_colorNormal="@color/greenYellow"  />
     </com.github.clans.fab.FloatingActionMenu>
+    <com.getbase.floatingactionbutton.FloatingActionsMenu
+        android:id="@+id/floating_button_fake"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:visibility="invisible"
+        app:fab_addButtonColorNormal="@color/green"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
